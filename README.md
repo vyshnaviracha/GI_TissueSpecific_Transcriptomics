@@ -75,4 +75,4 @@ python scripts/gi_tissue_specific_analysis.py
 ## Output
 
 Primary figure:
-- `Figure3_GI_TissueSpecific_TumorVsNormal.svg`
+- mRNA_GI_TissueSpecific_TumorVsNormal_heatmap.svg
